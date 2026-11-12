@@ -1,4 +1,4 @@
-#include <Windows.h>
+#include <windows.h>
 #include <iostream>
 #include <sstream>
 #include <vector>
@@ -8,12 +8,12 @@
 #include <chrono>
 #include <fstream>
 #include <mutex>
-#include <TlHelp32.h>
+#include <tlhelp32.h>
 #include <winternl.h>
-#include <ShlObj.h>
+#include <shlobj.h>
 
 #pragma comment(lib, "Shlwapi.lib")
-#include <Shlwapi.h>
+#include <shlwapi.h>
 
 #include "ui.h"
 #include "settings.h"
