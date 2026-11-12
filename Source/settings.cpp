@@ -6,6 +6,9 @@
 #include <fstream>
 #include <functional>
 #include <cerrno>
+#include <cmath>
+#include <cstring>
+#include <stdexcept>
 
 // todo: jesus this is ugly rewrite all this if i ever care enough
 // todo: do the above todo. we have advanced technology now (json)

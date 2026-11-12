@@ -1,6 +1,6 @@
 #include "procutil.h"
 
-#include <TlHelp32.h>
+#include <tlhelp32.h>
 #include <filesystem>
 
 #include "sigscan.h"

@@ -1,7 +1,7 @@
 #include "sigscan.h"
 
-#include <Windows.h>
-#include <Psapi.h>
+#include <windows.h>
+#include <psapi.h>
 #pragma comment(lib, "Psapi.lib")
 
 namespace sigscan

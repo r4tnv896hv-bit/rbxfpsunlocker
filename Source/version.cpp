@@ -1,9 +1,9 @@
 #include "rfu.h"
 
-#include <Windows.h>
+#include <windows.h>
 
 #pragma comment(lib, "WinInet.lib")
-#include <WinInet.h>
+#include <wininet.h>
 
 #include <string>
 #include <regex>
